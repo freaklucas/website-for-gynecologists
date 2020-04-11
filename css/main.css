@@ -1,0 +1,73 @@
+.navbar-item {
+    height: 100px;
+}
+
+.cool-100 {
+    width: 100%;
+    float: left;
+    position: relative;
+    border-bottom: 4px solid #efefef;
+}
+
+button.slick-prev {
+    font-size: 0px;
+    border: none;
+    width: 54px;
+    height: 47px;
+    background-color: transparent;
+    z-index: 9;
+    position: absolute;
+    background-image: url('../img//exemploseta_invertido.png');
+    top: 76%;
+    left: 10%;
+}
+
+button.slick-next {
+    font-size: 0px;
+    border: none;
+    width: 54px;
+    height: 47px;
+    background-color: transparent;
+    z-index: 9;
+    position: absolute;
+    background-image: url('../img/exemploseta.png');
+    top: 76%;
+    right: 10%;
+}
+
+.slick-dots li button {
+    font-size: 0px;
+    border: 5px solid #d6d6d6;
+    width: 26px;
+    height: 26px;
+    background: transparent;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.slick-dots {
+    margin: 0 auto;
+    width: 50%;
+    position: absolute;
+    left: 47%;
+    top: 700px;
+}
+
+li.slick-active button {
+    background-color: #252323;
+}
+
+.slick-dots li {
+    padding-left: 10px;
+    display: inline-block;
+}
+
+#plano-2 {
+    float: right;
+}
+
+.rosa-claro {
+    background-color: #ff00ff !important;
+}
+
+.plano-2 {}
