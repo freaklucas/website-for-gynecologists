@@ -1,4 +1,4 @@
-# website-for-gynecologists
+# website
  development of a commercial website with an advertising function
 ![Screenshot](1.png)
 ![Screenshot](2.png)
